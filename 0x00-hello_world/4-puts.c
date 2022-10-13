@@ -4,18 +4,17 @@
 
 
 /**
+ 
+ * main - Printing
  *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * Return: Always 0 (Successful)
+  */
 
 int main(void)
 
 {
+
+puts("\" Programming is like building amaultigual puzzel");
 
 	    return (0);
 
