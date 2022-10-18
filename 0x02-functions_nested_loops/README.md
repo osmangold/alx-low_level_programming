@@ -1,1 +1,1 @@
-_putchar
+not empty
