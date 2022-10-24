@@ -1,1 +1,1 @@
-not empty
+Pointer and array 
