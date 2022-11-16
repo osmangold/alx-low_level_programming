@@ -1,0 +1,1 @@
+this Tak about pointer
