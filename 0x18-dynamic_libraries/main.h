@@ -1,6 +1,6 @@
-#ifndef _MAIN_H_
+#ifndef _holberton_h_
 
-#define _MAIN_H_
+#define _holberton_h_
 
 
 
@@ -45,4 +45,6 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
 
+
+#endif /* _holberton_h_ */
 
